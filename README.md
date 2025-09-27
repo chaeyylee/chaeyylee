@@ -2,7 +2,7 @@
 
 - 🏫 **Sookmyung Women's University, Dept. Computer Science** (2023.03 - )
 - 🎓 **BEYOND**, Sookmyung Women's University AI Club (2025.03 - )
-- 🎓 **SK mySUNI 써니C 4th**, AI-powered Work Innovation Project (2025.06 - 2025.08)
+- 🎓 **SK mySUNI 써니C** 4th, AI-powered Work Innovation Project (2025.06 - 2025.08)
 - 🎓 **25-26 GDGoC SOOKMYUNG** 6th Member, Google Developer Groups on Campus (2025.09 - )
 - 🌱 Currently studying **Spring** !
 - 💡 Interested in *AI Engineering & Data Science*
@@ -17,7 +17,7 @@
 | 2025.07 - 08 | BEYOND, Sookmyung Women's University AI Club : Summer Project | YOLOv8-based object detection for snacks & beverages               | Data labeling, training, ONNX export    | -                                                                                                            |
 | 2025.06 - 08 | SK mySUNI 써니C 4th                                             | Flask-based dashboard automating CSV preprocessing & visualization | Flask backend, HTML frontend, deployment | [Code](https://github.com/chaeyylee/mySUNI_13_ThirTEAM)<br/>[Project](https://mysuni-thirteam.onrender.com/) |
 | 2025.07 - 08 | LG Aimers 7th Hackathon                                       | Time-series model to forecast weekly menu demand in resort F&B     | Feature engineering, ML modeling        | -                                                                                                            |
-| 2025.09 -    | 25-26 GDGoC Sookmyung (Spring Novice Track)                   | Studying Spring Framework fundamentals and API development         | Spring Boot practice, REST API learning | [Study](https://github.com/chaeyylee/2025-02-Spring-Novice-Study)                                            |
+| 2025.09 -    | 25-26 GDGoC Sookmyung 6th (Spring Novice Track)                   | Studying Spring Framework fundamentals and API development         | Spring Boot practice, REST API learning | [Study](https://github.com/chaeyylee/2025-02-Spring-Novice-Study)                                            |
 
 ---
 
