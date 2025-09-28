@@ -4,7 +4,7 @@
 - 🎓 **BEYOND**, Sookmyung Women's University AI Club (2025.03 - )
 - 🎓 **SK mySUNI 써니C** 4th, AI-powered Work Innovation Project (2025.06 - 2025.08)
 - 🎓 **25-26 GDGoC Sookmyung** 6th Member, Google Developer Groups on Campus (2025.09 - )
-- 🌱 Currently studying ***Spring*** !
+- 🌱 Currently studying **Spring** !
 - 💡 Interested in *AI Engineering & Data Science*
 
 ---
