@@ -18,7 +18,7 @@
 | 2025.06 - 08 | SK mySUNI 써니C 4th                                             | Flask-based dashboard automating CSV preprocessing & visualization | Flask backend, HTML frontend, deployment | [Code](https://github.com/chaeyylee/mySUNI_13_ThirTEAM)<br/>[Project](https://mysuni-thirteam.onrender.com/) |
 | 2025.07 - 08 | LG Aimers 7th Hackathon                                       | Time-series model to forecast weekly menu demand in resort F&B     | Feature engineering, ML modeling        | -                                                                                                            |
 | 2025.09 -    | 25-26 GDGoC Sookmyung 6th (Spring Novice Track)                   | Studying Spring Framework fundamentals and API development         | Spring Boot practice, REST API learning | [Study](https://github.com/chaeyylee/2025-02-Spring-Novice-Study)                                            |
-| 2025.09 - 10 | 2025 BigContest : AI & Data Innovation Challenge         | AI Chatbot for marketing strategy based on store and customer data comparison | Streamlit frontend, Python backend logic, project planning | [Code](https://github.com/chaeyylee/Beyond_2025_bigcontest)<br/>[Project](https://noonbora2025bigcontest.onrender.com/) |
+| 2025.09 - 10 | 2025 BigContest : AI & Data Innovation Challenge         | AI Chatbot for marketing strategy based on store and customer data comparison | Streamlit frontend, Python backend server, project planning | [Code](https://github.com/chaeyylee/Beyond_2025_bigcontest)<br/>[Project](https://noonbora2025bigcontest.onrender.com/) |
 
 ---
 
