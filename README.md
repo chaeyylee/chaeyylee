@@ -19,7 +19,7 @@
 | 2025.07 - 08 | LG Aimers 7th Hackathon                                       | Time-series model to forecast weekly menu demand in resort F&B     | Feature engineering, ML modeling        | -                                                                                                            |
 | 2025.09 -    | 25-26 GDGoC Sookmyung 6th (Spring Novice Track)                   | Studying Spring Framework fundamentals and API development         | Spring Boot practice, REST API learning | [Study](https://github.com/chaeyylee/2025-02-Spring-Novice-Study)                                            |
 | 2025.09 - 10 | 2025 BigContest : AI & Data Innovation Challenge         | AI Chatbot for marketing strategy based on store and customer data comparison | Streamlit frontend, Python backend server, project planning | [Code](https://github.com/chaeyylee/Beyond_2025_bigcontest)<br/>[Project](https://noonbora2025bigcontest.onrender.com/) |
-| 2025.10 -     | BEYOND, Sookmyung Women's University AI Club : Paper to Code AI Study | Reproducing and experimenting with major AI research papers         | Paper analysis, model implementation    | [Study](https://github.com/chaeyylee/Beyond_Paper_Study) |
+| 2025.10 -     | BEYOND, Sookmyung Women's University AI Club : Paper to Code AI Study | Reproducing and experimenting with major AI research papers         | Paper analysis, model implementation    | [Study](https://github.com/chaeyylee/Beyond_Paper_Review) |
 
 ---
 
