@@ -23,8 +23,13 @@
 
 ---
 
-## 💻 Stacks
+## 📜 Certificates
 
+- ADsP (Advanced Data Analytics Semi-Professional), Kdata, 2025.11
+
+---
+
+## 💻 Stacks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -48,7 +53,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-
 
 ---
 
