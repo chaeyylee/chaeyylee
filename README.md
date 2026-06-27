@@ -14,7 +14,7 @@
 
 | Period       | Project                                                      | Description                                                                   | Role / Notes                                                | Link                                                                                                                              |
 |--------------|--------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 2026.01 -    | GDGoC quad S : Solve Together                                | AI-powered bilingual storytelling platform for multicultural families         | Spring backend server, project planning                     | [Code](https://github.com/GDGoC-quadS-Team1/MoreTale-backend)<br/>[Project](https://moretale.vercel.app/)                         |
+| 2026.01 - 06 | GDGoC quad S : Solve Together                                | AI-powered bilingual storytelling platform for multicultural families         | Spring backend server, project planning                     | [Code](https://github.com/GDGoC-quadS-Team1/MoreTale-backend)<br/>[Project](https://moretale.vercel.app/)                         |
 | 2025.09 - 10 | 2025 BigContest : AI & Data Innovation Challenge             | AI Chatbot for marketing strategy based on store and customer data comparison | Streamlit frontend, Python backend server, project planning | [Code](https://github.com/chaeyylee/Beyond_2025_bigcontest)<br/>[Project](https://noonbora2025bigcontest.onrender.com/)           |
 | 2025.07 - 08 | LG Aimers 7th Hackathon                                      | Time-series model to forecast weekly menu demand in resort F&B                | Feature engineering, ML modeling                            | -                                                                                                                                 |
 | 2025.06 - 08 | SK mySUNI 써니C 4th                                            | Flask-based dashboard automating CSV preprocessing & visualization            | Flask backend, HTML frontend, deployment                    | [Code](https://github.com/chaeyylee/mySUNI_13_ThirTEAM)<br/>[Project](https://mysuni-thirteam.onrender.com/)                      |
@@ -31,6 +31,12 @@
 | 2025.10 - 2026.01 | BEYOND : Paper to Code AI Study                              | Reproducing and experimenting with major AI research papers                   | Paper analysis, model implementation                        | [Study](https://github.com/chaeyylee/Beyond_Paper_Review)                                                                                                |
 | 2025.09 - 12      | 25-26 GDGoC Sookmyung 6th : Spring Novice Track              | Studying Spring Framework fundamentals and API development                    | Spring Boot practice, REST API learning                     | [Study](https://github.com/chaeyylee/2025-02-Spring-Novice-Study)<br/>[Toy Project](https://github.com/chaeyylee/2025-02-Spring-Novice-Study-ToyProject) |
 | 2025.03 - 07      | BEYOND : AI Vision Study & Seminar Series                    | Weekly sessions on OpenCV, ANN/CNN, and Keras-based deep learning             | Theory study, practical experimentation                     | -                                                                                                                                                        |
+
+---
+
+## 🏆 Awards
+
+- **People's Choice**, GDGoC on Campus quad S : Solve Together, 2026.06
 
 ---
 
