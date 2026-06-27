@@ -2,7 +2,7 @@
 
 - 🏫 **Sookmyung Women's University, Dept. Computer Science** (2023.03 - )
 - 🎓 **COTATO** 13th Backend Developer, University IT Development Club (2026.03 - )
-- 🎓 **25-26 GDGoC Sookmyung** 6th Member, Google Developer Groups on Campus (2025.09 - )
+- 🎓 **25-26 GDGoC Sookmyung** 6th Member, Google Developer Groups on Campus (2025.09 - 2026.06)
 - 🎓 **SK mySUNI 써니C** 4th, AI-powered Work Innovation Project (2025.06 - 2025.08)
 - 🎓 **BEYOND** 1st, Sookmyung Women's University AI Club (2025.03 - 2026.01)
 - 🌱 Currently studying **Spring** !
