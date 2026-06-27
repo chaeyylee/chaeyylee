@@ -36,7 +36,7 @@
 
 ## 🏆 Awards
 
-- **People's Choice**, GDGoC on Campus quad S : Solve Together, 2026.06
+- **People's Choice**, GDGoC quad S : Solve Together, 2026.06
 
 ---
 
