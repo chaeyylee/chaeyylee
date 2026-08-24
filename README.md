@@ -1,7 +1,8 @@
 # Hi, I'm Chaeyoung 👋  
 
 - 🏫 **Sookmyung Women's University, Dept. Computer Science** (2023.03 - )
-- 🎓 **COTATO** 13th Backend Developer, University IT Development Club (2026.03 - )
+- 🎓 **26-27 GDGoC Sookmyung** 7th Team Member, Google Developer Groups on Campus (2026.09 - )
+- 🎓 **COTATO** 13th Backend Developer, University IT Development Club (2026.03 - 2026.08)
 - 🎓 **25-26 GDGoC Sookmyung** 6th Member, Google Developer Groups on Campus (2025.09 - 2026.06)
 - 🎓 **SK mySUNI 써니C** 4th, AI-powered Work Innovation Project (2025.06 - 2025.08)
 - 🎓 **BEYOND** 1st, Sookmyung Women's University AI Club (2025.03 - 2026.01)
@@ -14,7 +15,7 @@
 
 | Period       | Project                                                      | Description                                                                                   | Role / Notes                                                | Link                                                                                                                              |
 |--------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 2026.05 -    | COTATO 13th : DemoDay Project                                          | AI-powered platform that matches teammates and supports collaboration throughout competitions | Spring backend server, AWS deployment, CI/CD                | [Code](https://github.com/IT-Cotato/13th-Gongmozip-BE)                                                                            |
+| 2026.05 -    | COTATO 13th : DemoDay Project                                | AI-powered platform that matches teammates and supports collaboration throughout competitions | Spring backend server, AWS deployment, CI/CD                | [Code](https://github.com/IT-Cotato/13th-Gongmozip-BE)<br/>[Project](https://www.gongmozip.site/)                                 |
 | 2026.01 - 06 | GDGoC quad S : Solve Together                                | AI-powered bilingual storytelling platform for multicultural families                         | Spring backend server, project planning                     | [Code](https://github.com/GDGoC-quadS-Team1/MoreTale-backend)<br/>[Project](https://moretale.vercel.app/)                         |
 | 2025.09 - 10 | 2025 BigContest : AI & Data Innovation Challenge             | AI Chatbot for marketing strategy based on store and customer data comparison                 | Streamlit frontend, Python backend server, project planning | [Code](https://github.com/chaeyylee/Beyond_2025_bigcontest)<br/>[Project](https://noonbora2025bigcontest.onrender.com/)           |
 | 2025.07 - 08 | LG Aimers 7th Hackathon                                      | Time-series model to forecast weekly menu demand in resort F&B                                | Feature engineering, ML modeling                            | -                                                                                                                                 |
@@ -26,12 +27,12 @@
 
 ## 📋 Studies
 
-| Period            | Project                                                      | Description                                                                   | Role / Notes                                                | Link                                                                                                                                                     |
-|-------------------|--------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2026.03 -         | COTATO : AWS Cloud Study                                     | Hands-on study of AWS core services and cloud architecture                    | Study lead, AWS service practice                            | [Study](https://github.com/chaeyylee/13th-AWS-Cloud-Study) |
-| 2025.10 - 2026.01 | BEYOND : Paper to Code AI Study                              | Reproducing and experimenting with major AI research papers                   | Paper analysis, model implementation                        | [Study](https://github.com/chaeyylee/Beyond_Paper_Review)                                                                                                |
-| 2025.09 - 12      | 25-26 GDGoC Sookmyung 6th : Spring Novice Track              | Studying Spring Framework fundamentals and API development                    | Spring Boot practice, REST API learning                     | [Study](https://github.com/chaeyylee/2025-02-Spring-Novice-Study)<br/>[Toy Project](https://github.com/chaeyylee/2025-02-Spring-Novice-Study-ToyProject) |
-| 2025.03 - 07      | BEYOND : AI Vision Study & Seminar Series                    | Weekly sessions on OpenCV, ANN/CNN, and Keras-based deep learning             | Theory study, practical experimentation                     | -                                                                                                                                                        |
+| Period            | Project                                         | Description                                                       | Role / Notes                            | Link                                                                                                                          |
+|-------------------|-------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| 2026.03 - 08      | COTATO : AWS Cloud Study                        | Hands-on study of AWS core services and cloud architecture        | Study lead, AWS service practice        | [Study](https://github.com/chaeyylee/13th-AWS-Cloud-Study)                                                                    |
+| 2025.10 - 2026.01 | BEYOND : Paper to Code AI Study                 | Reproducing and experimenting with major AI research papers       | Paper analysis, model implementation    | [Study](https://github.com/chaeyylee/Beyond_Paper_Review)                                                                     |
+| 2025.09 - 12      | 25-26 GDGoC Sookmyung 6th : Spring Novice Track | Studying Spring Framework fundamentals and API development        | Spring Boot practice, REST API learning | [Study](https://github.com/chaeyylee/2025-02-Spring-Novice-Study)<br/>[Toy Project](https://github.com/GDG-youngwon/youngwon) |
+| 2025.03 - 07      | BEYOND : AI Vision Study & Seminar Series       | Weekly sessions on OpenCV, ANN/CNN, and Keras-based deep learning | Theory study, practical experimentation | -                                                                                                                             |
 
 ---
 
@@ -44,6 +45,7 @@
 ## 📜 Certificates
 
 - ADsP (Advanced Data Analytics Semi-Professional), Kdata, 2025.11
+- OPIc IH, ACTFL, 2026.08
 
 ---
 
