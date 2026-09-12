@@ -2,6 +2,7 @@
 
 - 🏫 **Sookmyung Women's University, Dept. Computer Science** (2023.03 - )
 - 🎓 **26-27 GDGoC Sookmyung** 7th Team Member, Google Developer Groups on Campus (2026.09 - )
+- 🎓 **2026-2 SW중심대학 산학협력프로젝트** Undergraduate Researcher, 스튜디오 하입 (2026.09 - )
 - 🎓 **COTATO** 13th Backend Developer, University IT Development Club (2026.03 - 2026.08)
 - 🎓 **25-26 GDGoC Sookmyung** 6th Member, Google Developer Groups on Campus (2025.09 - 2026.06)
 - 🎓 **SK mySUNI 써니C** 4th, AI-powered Work Innovation Project (2025.06 - 2025.08)
@@ -15,7 +16,7 @@
 
 | Period       | Project                                                      | Description                                                                                   | Role / Notes                                                | Link                                                                                                                              |
 |--------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
-| 2026.05 -    | COTATO 13th : DemoDay Project                                | AI-powered platform that matches teammates and supports collaboration throughout competitions | Spring backend server, AWS deployment, CI/CD                | [Code](https://github.com/IT-Cotato/13th-Gongmozip-BE)<br/>[Project](https://www.gongmozip.site/)                                 |
+| 2026.05 - 08 | COTATO 13th : DemoDay Project                                | AI-powered platform that matches teammates and supports collaboration throughout competitions | Spring backend server, AWS deployment, CI/CD                | [Code](https://github.com/IT-Cotato/13th-Gongmozip-BE)<br/>[Project](https://www.gongmozip.site/)                                 |
 | 2026.01 - 06 | GDGoC quad S : Solve Together                                | AI-powered bilingual storytelling platform for multicultural families                         | Spring backend server, project planning                     | [Code](https://github.com/GDGoC-quadS-Team1/MoreTale-backend)<br/>[Project](https://moretale.vercel.app/)                         |
 | 2025.09 - 10 | 2025 BigContest : AI & Data Innovation Challenge             | AI Chatbot for marketing strategy based on store and customer data comparison                 | Streamlit frontend, Python backend server, project planning | [Code](https://github.com/chaeyylee/Beyond_2025_bigcontest)<br/>[Project](https://noonbora2025bigcontest.onrender.com/)           |
 | 2025.07 - 08 | LG Aimers 7th Hackathon                                      | Time-series model to forecast weekly menu demand in resort F&B                                | Feature engineering, ML modeling                            | -                                                                                                                                 |
