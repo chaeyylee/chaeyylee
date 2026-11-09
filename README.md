@@ -2,7 +2,7 @@
 
 - 🏫 **Sookmyung Women's University, Dept. Computer Science** (2023.03 - )
 - 🎓 **26-27 GDGoC Sookmyung** 7th Team Member, Google Developer Groups on Campus (2026.09 - )
-- 🎓 **2026-2 SW중심대학 산학협력프로젝트** Undergraduate Researcher, studio HaiP (2026.09 - )
+- 🎓 **2026-2 SW중심대학 산학협력프로젝트** Undergraduate Researcher, [studio Haip](https://haip.kr/) (2026.09 - )
 - 🎓 **COTATO** 13th Backend Developer, University IT Development Club (2026.03 - 2026.08)
 - 🎓 **25-26 GDGoC Sookmyung** 6th Member, Google Developer Groups on Campus (2025.09 - 2026.06)
 - 🎓 **SK mySUNI 써니C** 4th, AI-powered Work Innovation Project (2025.06 - 2025.08)
@@ -45,7 +45,8 @@
 
 ## 📜 Certificates
 
-- ADsP (Advanced Data Analytics Semi-Professional), Kdata, 2025.11
+- ADsP, Kdata, 2025.11
+- TOPCIT Level 3, IITP, 2026.11
 - OPIc IH, ACTFL, 2026.08
 
 ---
